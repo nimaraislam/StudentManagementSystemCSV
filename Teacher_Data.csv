@@ -1,0 +1,4 @@
+firstName,lastName,personNumber,dateOfBirth,mobileNumber,email,salary,course
+John,Smith,198004150110,15/04/1980,0743280000,john@gmail.com,35000.0,Math
+Maria,Andersson,197511220990,22/11/1975,0723090050,maria@gmail.com,25000.0,English
+Peter,Johanson,198207039000,03/07/1982,0789876000,peter@gmail.com,40000.0,Swedish
